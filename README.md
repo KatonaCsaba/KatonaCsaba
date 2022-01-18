@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @KatonaCsaba
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning ... everything
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me katona0308@icloud.com
 
 <!---
 KatonaCsaba/KatonaCsaba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
